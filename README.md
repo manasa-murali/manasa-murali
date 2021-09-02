@@ -14,8 +14,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manasa-murali&hide=html,php&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-
-<p align="left"> 
-  <b>Visitor count</b><br>
-  <img src="https://profile-counter.glitch.me/manasa-murali/count.svg" />
-
+<br></br>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=manasa-murali.manasa-murali)
